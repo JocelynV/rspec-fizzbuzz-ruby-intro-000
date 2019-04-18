@@ -9,6 +9,6 @@ if number % 5 == 0 # if the number int is divisible by 3
   "Buzz" # Go fizz
 end
 if number % 3 == 0 & number % 5 == 0# if the number int is divisible by 3
-  "Fizzbuzz" # Go fizz  
+  "Fizzbuzz" # Go fizz
 end
 end
